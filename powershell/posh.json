@@ -96,7 +96,7 @@
         {
           "type": "time",
           "style": "plain",
-          "template": " ÔÖÑ {{ .CurrentDate | date .Format }} |",
+          "template": "{{ .CurrentDate | date .Format }} |",
           "properties": {
             "time_format": "15:04"
           }
