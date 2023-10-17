@@ -64,7 +64,7 @@
           "style" : "diamond",
           "leading_diamond": "\ue0b2",
           "trailing_diamond": "\ue0b0",
-          "foreground": "#d6deeb",
+          "foreground": "#0b0b0b",
           "background": "#1DB954",
           "properties": {
             "prefix": " \uE235 "
